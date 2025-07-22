@@ -15,7 +15,7 @@ Here you will find links to texts, videos, and art references related to computa
  
 Essay - [Why love Generative Art?](https://www.artnome.com/news/2018/8/8/why-love-generative-art?fbclid=IwAR0-aNBGnRNtk2n_s2gy_51b0nBj9RzFRrpnGQjUFRGvX5EojezUNJtDMPc) by Jason Bailey
  
-Video essay - [Goodbye Uncanny Valley](https://vimeo.com/237568588) - by Alan Warburton
+Video essay - [Goodbye Uncanny Valley](https://alanwarburton.co.uk/goodbye-uncanny-valley) - by Alan Warburton
  
 Article - [What is generative art?](https://creativecoding.soe.ucsc.edu/courses/cmpm202_w20/texts/Boden_Edmonds_WhatIsGenerativeArt.pdf) - Margaret A. Boden & Ernest A. Edmonds
  
