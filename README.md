@@ -5,21 +5,21 @@ Year 1 Unit 1: Introduction to Fine Art and Computational Arts (Human Computatio
 
 Here you will find links to texts, videos, and art references related to computational arts and the unit 1 focus on 'human computation'.
 
-Introduction to Computational Art
+**Introduction to Computational Art**
  
 Essay - [Why love Generative Art?](https://www.artnome.com/news/2018/8/8/why-love-generative-art?fbclid=IwAR0-aNBGnRNtk2n_s2gy_51b0nBj9RzFRrpnGQjUFRGvX5EojezUNJtDMPc) by Jason Bailey
  
-Video essay - Goodbye Uncanny Valley - by Alan Warburton
+Video essay - [Goodbye Uncanny Valley](https://vimeo.com/237568588) - by Alan Warburton
  
-Article -What is generative art? - Margaret A. Boden & Ernest A. Edmonds
+Article - [What is generative art?](https://creativecoding.soe.ucsc.edu/courses/cmpm202_w20/texts/Boden_Edmonds_WhatIsGenerativeArt.pdf) - Margaret A. Boden & Ernest A. Edmonds
  
-Archive - Rhizome.org Artbase (digital-born and online artworks)
+Archive - [Rhizome.org Artbase](https://artbase.rhizome.org/wiki/Main_Page) (digital-born and online artworks)
  
-Archive - Spalter Digital (collection of early computational art)
+Archive - [Spalter Digital](https://spalterdigital.com/) (collection of early computational art)
  
  
 
-Resources related to 'human computation'
+**Resources related to 'human computation'**
  
 Matteo Pasquinelli, Three Thousand Years of Algorithmic Rituals: The Emergence of AI from the Computation of Space
  
@@ -30,6 +30,8 @@ Roman Verostko discussing Algorithmic Art
 Leslie Roberts Leslie Roberts | The Anne + Michael Spalter Digital Art Collection
  
  
+
+**Visual Art, Drawing, and Painting**
 
 Visual Art, Drawing, and Painting
 
@@ -45,7 +47,8 @@ Frederic VanHoute - Generatice Dice archive *
 
 #generativedice hashtag on Instagram
 
-Conceptual Art
+
+**Conceptual Art**
 
 Jeff Thompson - Human Computers *
 
@@ -67,7 +70,8 @@ Jonathan Chomko - A Heart From Space
 
 Eltono - Detour (aleatory walking experiment)
 
-Poetry
+
+**Poetry**
 
 Oulipo - A Brief Guide to OULIPO | Academy of American Poets
 
@@ -79,7 +83,7 @@ Raymond Queneau, Cent Mille Milliards de poèmes
 
  
 
-Music
+**Music**
 
 18th century musical dice game Musikalisches Würfelspiel - Wikipedia
 
@@ -91,7 +95,7 @@ John Zorn - COBRA https://youtu.be/yp-oZbmsQVw
 
  
 
-Reading List
+**Reading List**
 
 Perrella, L. (2004). Artists Journals Sketchbooks. QuarryBooks.
 
