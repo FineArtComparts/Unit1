@@ -1,11 +1,17 @@
 # Unit1
-Year 1 Unit 1: Introduction to Fine Art and Computational Arts (Human Computation)
+***Year 1 Unit 1: Introduction to Fine Art and Computational Arts (Human Computation)***
+This unit explores the blurred boundary between human activity and computation. Before the invention of electronic machines, a "computer" was a job title, not a device. During this unit, we'll return to the core principles of computation, tapping into the power of algorithmic thinking to generate new meanings through the development of systems, process-driven explorations and collaborative methods.
+
+By examining how patterns in nature or ancestral crafts have inspired contemporary computation, this unit investigates how process-based practices offers new perspectives on encoded knowledge.You will be introduced to different strategies in art, image-making, music, and poetry, in which artists design and carry out instructions and chance operations to generate outputs. From rolling dice, weaving, to writing out instructions for others, process-led art has inspired recent explorations in computational arts.
+
+You will develop a research file containing references, ideas, and experiments related to these themes. Documentation of experimental work developed during the unit should include tests, processes, documentation, material investigations, sketches and works in progress. All material must be annotated, and you must reflect on why you have selected different methods and materials and how they connect with your ideas. These can be notes about subject matter, process, materials or concepts; anything to show how research has been conducted. In addition, you are expected to include notes about the unit lectures and events. This should include other artists, exhibitions, as well as other areas of research and/or reading.
+
 
 ## Reading List
 
 Here you will find links to texts, videos, and art references related to computational arts and the unit 1 focus on 'human computation'.  
 
-**Introduction to Computational Art**
+### **Introduction to Computational Art**
  
 Essay - [Why love Generative Art?](https://www.artnome.com/news/2018/8/8/why-love-generative-art?fbclid=IwAR0-aNBGnRNtk2n_s2gy_51b0nBj9RzFRrpnGQjUFRGvX5EojezUNJtDMPc) by Jason Bailey
  
@@ -19,38 +25,38 @@ Archive - [Spalter Digital](https://spalterdigital.com/) (collection of early co
  
  
 
-**Resources related to 'human computation'**
+### **Resources related to 'human computation'**
  
-Matteo Pasquinelli, Three Thousand Years of Algorithmic Rituals: The Emergence of AI from the Computation of Space
+Matteo Pasquinelli, [Three Thousand Years of Algorithmic Rituals: The Emergence of AI from the Computation of Space](https://www.e-flux.com/journal/101/273221/three-thousand-years-of-algorithmic-rituals-the-emergence-of-ai-from-the-computation-of-space/)
  
-Early Computer Art
+#### Early Computer Art
  
-Roman Verostko discussing Algorithmic Art
+Roman Verostko discussing [Algorithmic Art](http://www.verostko.com/algorithm.html)
  
-Leslie Roberts Leslie Roberts | The Anne + Michael Spalter Digital Art Collection  
+Leslie Roberts [Leslie Roberts | The Anne + Michael Spalter Digital Art Collection](https://spalterdigital.com/artists/leslie-roberts/)  
  
  
 
-**Visual Art, Drawing, and Painting**
+#### Visual Art, Drawing, and Painting
 
 Visual Art, Drawing, and Painting
 
-Ellsworth Kelly Brushstrokes Cut into Forty-Nine Squares and Arranged by Chance. 1951
+Ellsworth Kelly [Brushstrokes Cut into Forty-Nine Squares and Arranged by Chance. 1951](https://www.moma.org/collection/works/37184?artist_id=3048&page=1&sov_referrer=artist)
 
-Sol Lewitt  A Wall Drawing Retrospective | MASS MoCA
+Sol Lewitt  [A Wall Drawing Retrospective | MASS MoCA](https://massmoca.org/sol-lewitt/)
 
-Conditional Design exercises Conditional Design Workbook * and Exercises **
+Conditional Design exercises [Conditional Design Workbook](https://workbook.conditionaldesign.org/) and [Exercises](https://conditionaldesign.org/archive/)
 
-Jim Melchert - ceramicist Jim Melchert
+Jim Melchert - ceramicist [Jim Melchert](https://wordsaboutart.com/blog/http/wordsaboutartcom/blog-page-url/2018/9/28/new-post-title-2)
 
-Frederic VanHoute - Generatice Dice archive *
+Frederic VanHoute - [Generatice Dice archive](https://wblut.com/generative-dice-twitter-archives-2019-2020/)
 
-#generativedice hashtag on Instagram  
+[#generativedice](https://www.instagram.com/explore/tags/generativedice/) hashtag on Instagram  
 
 
-**Conceptual Art**
+#### Conceptual Art
 
-Jeff Thompson - Human Computers *
+Jeff Thompson - [Human Computers](http://jeffreythompson.org/human-computers.php)
 
 Pieterjan Ginckels - Spam Office
 
@@ -71,7 +77,7 @@ Jonathan Chomko - A Heart From Space
 Eltono - Detour (aleatory walking experiment)  
 
 
-**Poetry**
+#### Poetry
 
 Oulipo - A Brief Guide to OULIPO | Academy of American Poets
 
@@ -83,7 +89,7 @@ Raymond Queneau, Cent Mille Milliards de poèmes
 
  
 
-**Music**
+#### Music
 
 18th century musical dice game Musikalisches Würfelspiel - Wikipedia
 
@@ -95,7 +101,7 @@ John Zorn - COBRA https://youtu.be/yp-oZbmsQVw
 
  
 
-**Reading List**
+### **Reading List**
 
 Perrella, L. (2004). Artists Journals Sketchbooks. QuarryBooks.
 
@@ -175,10 +181,10 @@ Sadie Plant, The Future Looms: Weaving Women and Cybernetics
 Laura Tripaldi (2023) Parallel Minds Discovering the Intelligence of Materials  
 
 
-**Periodicals & Web**
+### **Periodicals & Web**
 
 
-Creative Applications
+[Creative Applications](https://www.creativeapplications.net/)
  
-e-flux
+[e-flux](https://www.e-flux.com/)
  
