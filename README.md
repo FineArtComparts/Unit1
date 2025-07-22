@@ -3,7 +3,7 @@ Year 1 Unit 1: Introduction to Fine Art and Computational Arts (Human Computatio
 
 ## Reading List
 
-Here you will find links to texts, videos, and art references related to computational arts and the unit 1 focus on 'human computation'.
+Here you will find links to texts, videos, and art references related to computational arts and the unit 1 focus on 'human computation'.  
 
 **Introduction to Computational Art**
  
@@ -15,7 +15,7 @@ Article - [What is generative art?](https://creativecoding.soe.ucsc.edu/courses/
  
 Archive - [Rhizome.org Artbase](https://artbase.rhizome.org/wiki/Main_Page) (digital-born and online artworks)
  
-Archive - [Spalter Digital](https://spalterdigital.com/) (collection of early computational art)
+Archive - [Spalter Digital](https://spalterdigital.com/) (collection of early computational art)  
  
  
 
@@ -27,7 +27,7 @@ Early Computer Art
  
 Roman Verostko discussing Algorithmic Art
  
-Leslie Roberts Leslie Roberts | The Anne + Michael Spalter Digital Art Collection
+Leslie Roberts Leslie Roberts | The Anne + Michael Spalter Digital Art Collection  
  
  
 
@@ -45,7 +45,7 @@ Jim Melchert - ceramicist Jim Melchert
 
 Frederic VanHoute - Generatice Dice archive *
 
-#generativedice hashtag on Instagram
+#generativedice hashtag on Instagram  
 
 
 **Conceptual Art**
@@ -68,7 +68,7 @@ Keith Tyson - Fractal Dice Sculptures FutureModern: Keith Tyson - Fractal Dice
 
 Jonathan Chomko - A Heart From Space
 
-Eltono - Detour (aleatory walking experiment)
+Eltono - Detour (aleatory walking experiment)  
 
 
 **Poetry**
@@ -79,7 +79,7 @@ William Burroughs The Poetics of Minutes to Go – RealityStudio
 
 Volvelles - The History of Text Generation | (mathesonmarcault.com)
 
-Raymond Queneau, Cent Mille Milliards de poèmes
+Raymond Queneau, Cent Mille Milliards de poèmes  
 
  
 
@@ -91,7 +91,7 @@ Aleatoric music - Wikipedia
 
 Terry Riley - In C In C - Wikipedia
 
-John Zorn - COBRA https://youtu.be/yp-oZbmsQVw
+John Zorn - COBRA https://youtu.be/yp-oZbmsQVw  
 
  
 
@@ -172,10 +172,10 @@ Sadie Plant (1997) Zeros and Ones : Digital Women and the New Technoculture
 
 Sadie Plant, The Future Looms: Weaving Women and Cybernetics
 
-Laura Tripaldi (2023) Parallel Minds Discovering the Intelligence of Materials
+Laura Tripaldi (2023) Parallel Minds Discovering the Intelligence of Materials  
 
 
-Periodicals & Web
+**Periodicals & Web**
 
 
 Creative Applications
